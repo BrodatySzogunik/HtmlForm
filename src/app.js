@@ -1,8 +1,8 @@
 
 import "./style.css"
-import {cookies} from "./cookies"
+import {local} from "./localStorage"
 
-(cookies())
+(local())
 
 const menuButton = document.querySelector(".menu-btn");
 const menuContent = document.getElementById("menu-content")

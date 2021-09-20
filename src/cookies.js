@@ -1,3 +1,4 @@
+// Cookies
 export const cookies = () => {
         var infobar = document.querySelector(".cookies-infobar")
         var modalfader = document.querySelector(".modal-fader")
